@@ -52,9 +52,9 @@ void tabela() {
         }
     }
 
-    cout << "O time com mais pontos é: " << t[maior].nome << " com " << t[maior].pontos 
+    cout << "O time com mais pontos e: " << t[maior].nome << " com " << t[maior].pontos 
     << " pontos." << endl;
-    cout << "O time com menos pontos é: " << t[menor].nome << " com " << t[menor].pontos 
+    cout << "O time com menos pontos e: " << t[menor].nome << " com " << t[menor].pontos 
     << " pontos." << endl;
 }
 
